@@ -2,7 +2,7 @@
 
 This repository contains a web application that has a login page containing four slide on the right-hand side and a product updates page.
 The login functionality is not implemented and does not need to be; nothing currently requires authorization. It's simply meant to represent a real-world user interface.
-
+ 
 ## Getting Started
 
 Either fork this repository and pull to your local development environment, or download the source code and initialize your own repository (please make an initial commit before making any changes). When complete, commit your changes and push your repository to GitHub.
