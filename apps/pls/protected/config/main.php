@@ -9,6 +9,7 @@ return [
 	'import'     => [
 		'application.models.*',
 		'application.components.*',
+		'application.controllers.*',
 	],
 	'modules'    => [
 		'gii' => [
